@@ -1,6 +1,6 @@
 ##!/usr/bin/python3
 # akashblackhat
-print('''\033[91m
+print('''\033[95m
 
 
 ███    ███  ██████  ███████ ██ ██    ██ ██████  
